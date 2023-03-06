@@ -1,9 +1,12 @@
 # CCE-Report-1
 Target breach happened because of a basic network segmentation error.
+
 Nov. 15 and Dec. 15, 2013
+
 Hackers gained access to Target POS systems using login credentials belonging to an HVAC company.
 
 Type of attack Phishing.
+
 The massive data breach at Target last month may have resulted partly from the retailer's failure to properly segregate systems handling sensitive payment card data from the rest of its network.
 Hackers broke into the retailer's network using login credentials stolen from a heating, ventilation and air conditioning company that does work for Target at a number of locations.
 
